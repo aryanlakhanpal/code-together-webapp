@@ -18,4 +18,4 @@ Welcome to the Real-Time Code Editor project! This application is designed to pr
 - **Express**: A web application framework for Node.js, used for creating the backend server.
 - **uuid**: A library for generating unique identifiers.
 
-Go check this website on https://simultaneous-code-editor.vercel.app/
+Go check this website on https://code-together-webapp-yflq.vercel.app/
